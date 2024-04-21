@@ -1,0 +1,7 @@
+C:\Users\TN-99345\Desktop\observer design pattern\observer_pattern2\observer_pattern2\obj\Debug\observer_pattern2.csproj.AssemblyReference.cache
+C:\Users\TN-99345\Desktop\observer design pattern\observer_pattern2\observer_pattern2\obj\Debug\observer_pattern2.csproj.CoreCompileInputs.cache
+C:\Users\TN-99345\Desktop\observer design pattern\observer_pattern2\observer_pattern2\bin\Debug\observer_pattern2.exe.config
+C:\Users\TN-99345\Desktop\observer design pattern\observer_pattern2\observer_pattern2\bin\Debug\observer_pattern2.exe
+C:\Users\TN-99345\Desktop\observer design pattern\observer_pattern2\observer_pattern2\bin\Debug\observer_pattern2.pdb
+C:\Users\TN-99345\Desktop\observer design pattern\observer_pattern2\observer_pattern2\obj\Debug\observer_pattern2.exe
+C:\Users\TN-99345\Desktop\observer design pattern\observer_pattern2\observer_pattern2\obj\Debug\observer_pattern2.pdb
