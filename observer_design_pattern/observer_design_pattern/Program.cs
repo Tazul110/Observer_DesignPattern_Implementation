@@ -27,6 +27,9 @@ namespace observer_design_pattern
             ticketBookingSystem.RegisterObserver(u2, "event2");
             ticketBookingSystem.RegisterObserver(u3, "event1");
 
+            ticketBookingSystem.RegisterObserver(u1, "Eid_ul_fitor");
+            ticketBookingSystem.RegisterObserver(u2, "Eid_ul_fitor");
+
             // Add some tickets
             Ticket ticket1 = new Ticket { Destination = "New York", DepartureTime = DateTime.Now.AddDays(7), Price = 300 };
             Ticket ticket2 = new Ticket { Destination = "Los Angeles", DepartureTime = DateTime.Now.AddDays(14), Price = 250 };
@@ -35,7 +38,8 @@ namespace observer_design_pattern
             ticketBookingSystem.AddTicket(ticket1);
             ticketBookingSystem.AddTicket(ticket2);
 
-            ticketBookingSystem.NotifyObservers( ticket1, "event2");
+            ticketBookingSystem.NotifyObservers( ticket1, "event1");
+            ticketBookingSystem.NotifyObservers(ticket2, "Eid_ul_fitor");
 
             // Remove a ticket
             ticketBookingSystem.RemoveTicket(ticket1);
